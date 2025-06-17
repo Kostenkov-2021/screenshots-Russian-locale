@@ -1,1 +1,1 @@
-* Updated finnish translation by Jani Kinnunen @jkinnunen
+* Tested in NVDA 2025.1 and works OK.
